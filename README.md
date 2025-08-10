@@ -35,6 +35,6 @@ Create a `.env` file in the project folder and add the following:
 ```env
 HUGGINGFACEHUB_API_TOKEN=your_huggingface_token  
 OPENAI_API_KEY=your_openai_key
-## Setup & Run
+
 
 
